@@ -1,7 +1,7 @@
-# Fruit-Ninja-Master-3D
+# Fruit of Master
 Privacy Policy
 
-Welcome to the Fruit Ninja Master 3D Game for Android
+Welcome to the Fruit Master Game for Android
 
 This is an open source Android app developed by Nway Oo. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
